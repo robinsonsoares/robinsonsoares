@@ -7,8 +7,9 @@
 I'm Software Developer who is passionate about making code more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include chatbots, the MERN (Mongo, Express, React and Node) stack and Asp Net Core. 
 
 
-I am currently working on an awesome company called B&G.
+🔭 I am currently working on an awesome company called B&G.
 
+📄 I’m currently learning Asp Net Core as well as getting in deeper with OOP concepts, DDD, SOLID principles, Clean Code and Design Patterns.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinsonsoares&show_icons=true&locale=en" alt="robinsonsoares" /></p>
 
