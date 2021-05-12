@@ -6,7 +6,7 @@
 
 I'm Software Developer who is passionate about making code more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include chatbots, the MERN (Mongo, Express, React and Node) stack and Asp Net Core. 
 
-<img src="https://camo.githubusercontent.com/248354099f083535b130b20af628b6fd53aeb8dc4ca9fe0cd2b7577315f41fb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f49666d454177556c4d4d794b6252443637542f67697068792e676966" width="400" height="400" />
+<img src="https://camo.githubusercontent.com/248354099f083535b130b20af628b6fd53aeb8dc4ca9fe0cd2b7577315f41fb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f49666d454177556c4d4d794b6252443637542f67697068792e676966" width="200" height="200" />
 
 
 - 🔭 I am currently working on an awesome company called B&G.
