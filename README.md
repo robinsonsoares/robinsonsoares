@@ -4,7 +4,7 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/@RobinsonNascto) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/robinson-soares/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/soares.robinson/) 
 
-Durante a vida profissional adquiri conhecimentos em automação comercial desenvolvendo softwares de automação e ERP de Gestão. Me especializei neste ramo de atividade e mantenho me atualizado em relação ao mercado e à legislação.
+Durante a vida profissional adquiri conhecimentos em automação comercial desenvolvendo softwares de frente de caixa e ERP de Gestão. Especializei neste ramo de atividade e sempre mantenho-me atualizado em relação ao mercado e à legislação.
 
 <img src="https://camo.githubusercontent.com/248354099f083535b130b20af628b6fd53aeb8dc4ca9fe0cd2b7577315f41fb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f49666d454177556c4d4d794b6252443637542f67697068792e676966" align="right" width="150" height="150" />
 
