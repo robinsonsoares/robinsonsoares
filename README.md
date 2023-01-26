@@ -8,7 +8,7 @@ Durante a vida profissional adquiri conhecimentos em automação comercial desen
 
 <img src="https://camo.githubusercontent.com/248354099f083535b130b20af628b6fd53aeb8dc4ca9fe0cd2b7577315f41fb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f49666d454177556c4d4d794b6252443637542f67697068792e676966" align="right" width="150" height="150" />
 
-- 📄 Atualmente, estou aprendendo .Net Core, Node e React , bem como me aprofundando nos conceitos OOP, DDD, princípios SOLID, Clean Code e Design Patterns.
+- 📄 Atualmente, estou aprendendo .Net Core, Node, TypeScript e React , bem como me aprofundando nos conceitos OOP, DDD, princípios SOLID, Clean Code e Design Patterns.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a  </p>
