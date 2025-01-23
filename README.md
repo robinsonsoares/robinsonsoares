@@ -5,7 +5,7 @@
 
 Durante a vida profissional adquiri conhecimentos em automação comercial desenvolvendo softwares de frente de caixa e ERP de Gestão. Especializei neste ramo de atividade e sempre mantenho-me atualizado em relação ao mercado e à legislação.
 
-<img src="https://camo.githubusercontent.com/248354099f083535b130b20af628b6fd53aeb8dc4ca9fe0cd2b7577315f41fb4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f49666d454177556c4d4d794b6252443637542f67697068792e676966" align="right" width="150" height="150" />
+<img src="https://camo.githubusercontent.com/5971d3f78659d0704007f5c6dc2f4b7e67a6e639d20fbd0ab8b889689043d054/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" align="right" width="150" height="150" />
 
 - 📄 Atualmente, estou aprendendo .Net Core, Node, TypeScript e React , bem como me aprofundando nos conceitos OOP, DDD, princípios SOLID, Clean Code e Design Patterns.
 
